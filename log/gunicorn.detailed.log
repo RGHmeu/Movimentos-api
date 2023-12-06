@@ -1,0 +1,25 @@
+[2023-12-06 09:17:36,735] INFO _log() L96   [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.104:5000 - call_trace=C:\Users\mtmos\Desktop\MVP\mvp_api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-06 09:17:36,759] INFO _log() L96   [33mPress CTRL+C to quit[0m - call_trace=C:\Users\mtmos\Desktop\MVP\mvp_api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-06 09:17:36,794] INFO _log() L96    * Restarting with stat - call_trace=C:\Users\mtmos\Desktop\MVP\mvp_api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-06 09:18:03,938] INFO _log() L96   127.0.0.1 - - [06/Dec/2023 09:18:03] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\MVP\mvp_api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-06 09:34:25,597] INFO _log() L96   127.0.0.1 - - [06/Dec/2023 09:34:25] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\MVP\mvp_api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-06 09:35:56,152] INFO _log() L96   127.0.0.1 - - [06/Dec/2023 09:35:56] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\MVP\mvp_api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-06 09:39:48,531] INFO _log() L96   127.0.0.1 - - [06/Dec/2023 09:39:48] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\MVP\mvp_api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-06 09:39:58,116] INFO _log() L96   127.0.0.1 - - [06/Dec/2023 09:39:58] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\MVP\mvp_api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-06 09:40:22,668] INFO _log() L96   127.0.0.1 - - [06/Dec/2023 09:40:22] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\MVP\mvp_api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-06 09:42:55,585] INFO _log() L96   127.0.0.1 - - [06/Dec/2023 09:42:55] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\MVP\mvp_api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-06 09:43:42,198] INFO _log() L96   127.0.0.1 - - [06/Dec/2023 09:43:42] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\MVP\mvp_api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-06 09:44:10,602] INFO _log() L96   127.0.0.1 - - [06/Dec/2023 09:44:10] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\MVP\mvp_api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-06 09:44:23,598] INFO _log() L96   127.0.0.1 - - [06/Dec/2023 09:44:23] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\MVP\mvp_api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-06 09:44:53,860] INFO _log() L96   127.0.0.1 - - [06/Dec/2023 09:44:53] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\MVP\mvp_api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-06 09:45:18,501] INFO _log() L96   127.0.0.1 - - [06/Dec/2023 09:45:18] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\MVP\mvp_api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-06 09:45:21,795] INFO _log() L96   127.0.0.1 - - [06/Dec/2023 09:45:21] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\MVP\mvp_api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-06 09:45:35,124] INFO _log() L96   127.0.0.1 - - [06/Dec/2023 09:45:35] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\MVP\mvp_api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-06 09:45:48,355] INFO _log() L96   127.0.0.1 - - [06/Dec/2023 09:45:48] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\MVP\mvp_api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-06 09:47:53,238] INFO _log() L96   127.0.0.1 - - [06/Dec/2023 09:47:53] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\MVP\mvp_api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-06 09:48:16,428] INFO _log() L96   127.0.0.1 - - [06/Dec/2023 09:48:16] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\MVP\mvp_api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-06 09:48:36,857] INFO _log() L96   127.0.0.1 - - [06/Dec/2023 09:48:36] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\MVP\mvp_api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-06 09:48:53,798] INFO _log() L96   127.0.0.1 - - [06/Dec/2023 09:48:53] "GET /movimentos HTTP/1.1" 200 - - call_trace=C:\Users\mtmos\Desktop\MVP\mvp_api\env\Lib\site-packages\werkzeug\_internal.py L96  
